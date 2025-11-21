@@ -29,6 +29,8 @@
 
 <br>
 
+**For more information, please visit [Alarmif.com](https://www.alarmif.com/).**
+
 <img alt="Alarmif" src="assets/Alarmif - Log Anomaly Detection Tool.gif"> </img>
 
 </div>
