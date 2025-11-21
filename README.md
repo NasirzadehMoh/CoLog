@@ -31,7 +31,7 @@ hello.
 
 <div align="center">
 
-![teaser](Overall Architecture.svg)
+<img alt="Alarmif" src="Figures/Overall Architecture.svg"> </img>
 
 </div>
 
