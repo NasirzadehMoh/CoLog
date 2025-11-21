@@ -13,7 +13,7 @@
 
 </div>
 
-<i>This repo is the official implementation of ["CoLog: A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers"](https://arxiv.org/pdf/2103.14030.pdf) as well as the follow-ups. It currently includes:</i>
+<i>This repository is the official implementation of ["CoLog: A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers"](https://arxiv.org/pdf/2103.14030.pdf) as well as its follow-ups. It currently includes:</i>
 
 > **Source code and training scripts**: Included in this repo. See [get_started.md](get_started.md) for a quick start.
 
@@ -29,7 +29,7 @@
 
 <br>
 
-<h3> For more information, please visit [Alarmif.com](https://www.alarmif.com/). </h3>
+<h1 align="left"> For more information, please visit [Alarmif.com](https://www.alarmif.com/). </h1>
 
 <img alt="Alarmif" src="assets/Alarmif - Log Anomaly Detection Tool.gif"> </img>
 
