@@ -35,6 +35,8 @@ Log anomaly detection is crucial for preserving the security of operating system
 
 <img alt="CoLog's Architecture" src="figures/architecture.svg"> </img>
 
+<br>
+
 <h2 align="center"> Main Results on Point Anomaly Detection. </h2>
 
 **Results on Casper Dataset**
@@ -53,6 +55,8 @@ Log anomaly detection is crucial for preserving the security of operating system
 | Transformer | 98.409 | 99.100 | 98.738 |  98.837 |
 | CoLog | 100 | 100 | 100 | 100 |
 
+<br>
+
 **Results on Jhuisi Dataset**
 
 | Anomaly Detection Technique |  Precision | Recall | F1-Score | Accuracy |
@@ -68,6 +72,8 @@ Log anomaly detection is crucial for preserving the security of operating system
 | LSTM | 96.879 | 92.385 | 94.508 | 99.121 |
 | Transformer | 96.879 | 92.385 | 94.508 | 99.121 |
 | CoLog | 100 | 100 | 100 | 100 |
+
+<br>
 
 **Results on Nssal Dataset**
 
@@ -85,6 +91,8 @@ Log anomaly detection is crucial for preserving the security of operating system
 | Transformer | 96.304 | 99.354 | 97.778 | 99.813 |
 | CoLog |  99.955 | 99.915 | 99.935 | 99.967 |
 
+<br>
+
 **Results on Honey7 Dataset**
 
 | Anomaly Detection Technique |  Precision | Recall | F1-Score | Accuracy |
@@ -100,6 +108,8 @@ Log anomaly detection is crucial for preserving the security of operating system
 | LSTM |  96.212 | 98.810 | 97.429 | 98.155 |
 | Transformer |  96.923 | 99.048 | 97.932 | 98.524 |
 | CoLog |  100 | 100 | 100 | 100 |
+
+<br>
 
 **Results on Zookeeper Dataset**
 
@@ -117,6 +127,8 @@ Log anomaly detection is crucial for preserving the security of operating system
 | Transformer |   99.890 | 99.416 | 99.652 | 99.361 |
 | CoLog |  100 | 100 | 100 | 100 |
 
+<br>
+
 **Results on Hadoop Dataset**
 
 | Anomaly Detection Technique |  Precision | Recall | F1-Score | Accuracy |
@@ -132,6 +144,8 @@ Log anomaly detection is crucial for preserving the security of operating system
 | LSTM |    99.850 | 97.397 | 98.589 | 99.715 |
 | Transformer |    97.280 | 99.833 | 98.518 | 99.685 |
 | CoLog |   99.997 | 99.956 | 99.977 | 99.994 |
+
+<br>
 
 **Results on BlueGene/L Dataset**
 
@@ -149,6 +163,8 @@ Log anomaly detection is crucial for preserving the security of operating system
 | Transformer | 97.640 | 97.955 | 97.792 | 97.902 |
 | CoLog |  99.999 | 99.990 | 99.994 | 99.998 |
 
+<br>
+
 <h2 align="center"> Ranking CoLog and other log anomaly detection methods. </h2>
 
 | Anomaly Detection Technique |  Mean F1-Score |
@@ -164,6 +180,8 @@ Log anomaly detection is crucial for preserving the security of operating system
 | LSTM |  97.845 |
 | Transformer | 99.135 |
 | CoLog |  99.987 |
+
+<br>
 
 <h2 align="center"> Main Results on Point and Collective Anomaly Detection. </h2>
 
