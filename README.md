@@ -25,6 +25,8 @@
 
 > **Instructions for environment setup and execution**: See [Environment Setup](https://github.com/NasirzadehMoh/CoLog).
 
+<br>
+
 <h2 align="center"> Introduction </h2>
 
 Log anomaly detection is crucial for preserving the security of operating systems. Depending on the source of log data collection, various information is recorded in logs that can be considered log modalities. In light of this intuition, unimodal methods often struggle by ignoring the different modalities of log data. Meanwhile, multimodal methods fail to handle the interactions between these modalities. Applying multimodal sentiment analysis to log anomaly detection, we propose CoLog, a framework that collaboratively encodes logs utilizing various modalities. CoLog utilizes collaborative transformers and multi-head impressed attention to learn interactions among several modalities, ensuring comprehensive anomaly detection. To handle the heterogeneity caused by these interactions, CoLog incorporates a modality adaptation layer, which adapts the representations from different log modalities. This methodology enables CoLog to learn nuanced patterns and dependencies within the data, enhancing its anomaly detection capabilities. Extensive experiments demonstrate CoLog’s superiority over existing state-of-the-art methods. Furthermore, in detecting both point and collective anomalies, CoLog achieves a mean precision of 99.63%, a mean recall of 99.59%, and a mean F1 score of 99.61% across seven benchmark datasets for log-based anomaly detection. The comprehensive detection capabilities of CoLog make it highly suitable for cybersecurity, system monitoring, and operational efficiency. CoLog represents a significant advancement in log anomaly detection, providing a sophisticated and effective solution to point and collective anomaly detection through a unified framework and a solution to the complex challenges automatic log data analysis poses.
@@ -34,6 +36,7 @@ Log anomaly detection is crucial for preserving the security of operating system
 <img alt="CoLog's Architecture" src="figures/architecture.svg"> </img>
 
 <h2 align="center"> Main Results on Point Anomaly Detection. </h2>
+
 **Results on Casper Dataset**
 
 | Anomaly Detection Technique |  Precision | Recall | F1-Score | Accuracy |
