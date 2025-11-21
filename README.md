@@ -150,6 +150,22 @@ Log anomaly detection is crucial for preserving the security of operating system
 
 ## Main Results on Point and Collective Anomaly Detection
 
+| Anomaly Detection Technique |  Mean F1-Score |
+| :---: | :---: |
+| Logistic Regression |   47.273 |
+| Support Vector Machines |  49.372 |
+| Decision Tree |  66.323 |
+| Attentional BiLSTM | 67.123 |
+| Convolutional Neural Network | 77.737 |
+| pylogsentiment | 96.765 |
+| Isolation Forest | 97.661 |
+| Principal Component Analysis | 97.812 |
+| LSTM |  97.845 |
+| Transformer | 99.135 |
+| CoLog |  99.987 |
+
+## Main Results on Point and Collective Anomaly Detection
+
 **COCO Object Detection (2017 val)**
 
 
