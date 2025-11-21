@@ -13,9 +13,9 @@
 
 </div>
 
-<i>This repository is the official implementation of ["CoLog: A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers"](https://arxiv.org/pdf/2103.14030.pdf) as well as its follow-ups. It currently includes:</i>
+<i>This repo is the official implementation of ["CoLog: A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers"](https://arxiv.org/pdf/2103.14030.pdf) as well as the follow-ups. It currently includes:</i>
 
-> **Source code and training scripts**: Included in this repo. See [README.md](README.md.md) for a quick start.
+> **Source code and training scripts**: Included in this repo. See [get_started.md](get_started.md) for a quick start.
 
 > **Pretrained models for all datasets**: See [Pretrained Models](https://github.com/NasirzadehMoh/CoLog).
 
@@ -26,8 +26,6 @@
 > **Instructions for environment setup and execution**: See [Environment Setup](https://github.com/NasirzadehMoh/CoLog).
 
 <div align="center">
-
-<br>
 
 <img alt="Alarmif" src="assets/Alarmif - Log Anomaly Detection Tool.gif"> </img>
 
