@@ -13,7 +13,7 @@
 
 </div>
 
-<i>This repository is the official implementation of ["CoLog: A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers"](https://arxiv.org/pdf/2103.14030.pdf) as well as its follow-ups. It currently includes:</i>
+<i>This repository is the official implementation of ["A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers"](https://arxiv.org) as well as its follow-ups. It currently includes:</i>
 
 > **Source code and training scripts**: Included in this repo. See [get_started.md](get_started.md) for a quick start.
 
