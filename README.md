@@ -195,6 +195,19 @@ Log anomaly detection is crucial for preserving the security of operating system
 | Hadoop | 99.17 | 99.84 |  99.50 |  99.98 |
 | BlueGene/L | 99.94 |  99.89 | 99.91 | 100 |
 
+<br>
+
+<h2 align="center"> Citing CoLog. </h2>
+
+```
+@inproceedings{CoLog,
+  title={CoLog},
+  author={CoLog},
+  booktitle={CoLog},
+  year={CoLog}
+}
+```
+
 </div>
 
 <br>
