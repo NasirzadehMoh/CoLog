@@ -39,7 +39,7 @@ Log anomaly detection is crucial for preserving the security of operating system
 **Results on Casper Dataset**
 
 | Anomaly Detection Technique  | Precision | Recall | F1-Score | Accuracy |
-                               |   :---:   | :---:  |  :---:   |   :---:  |
+|                              |   :---:   | :---:  |  :---:   |   :---:  |
 | Logistic Regression          |  66.959   | 60.863 |  59.700  |   90.993 |
 | Support Vector Machines      |  58.614   | 60.757 |  59.482  |   90.967 |
 | Decision Tree                |  83.466   | 77.037 |  79.488  |   94.998 |
