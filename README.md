@@ -27,6 +27,8 @@
 
 <div align="center">
 
+<br>
+
 <img alt="Alarmif" src="assets/Alarmif - Log Anomaly Detection Tool.gif"> </img>
 
 </div>
