@@ -189,6 +189,8 @@ Log anomaly detection is crucial for preserving the security of operating system
 
 </div>
 
+<br>
+
 <div align="center">
 
 <h2 align="left"> For more information, please visit www.alarmif.com. </h2>
