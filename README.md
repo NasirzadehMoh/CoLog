@@ -35,6 +35,8 @@ Log anomaly detection is crucial for preserving the security of operating system
 
 <img alt="CoLog's Architecture" src="figures/architecture.svg"> </img>
 
+<i>The overview of CoLog. Light green and gold colors demonstrate modality encoders. Each encoder in the collaborative transformer consists of MHIA, MLP, MAL, and LNs. MHIA and MAL are multi-head impressed attention and modality adaptation layer modules, respectively. The preprocess layer transforms unstructured logs into easily understandable data for the model. The purpose of the balancing layer is to regulate the influences of different modalities when calculating the final results.</i>
+
 <br>
 
 <h2 align="center"> Main Results on Point Anomaly Detection. </h2>
