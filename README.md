@@ -197,7 +197,7 @@ Log anomaly detection is crucial for preserving the security of operating system
 
 <br>
 
-<h2 align="center"> Citing CoLog. </h2>
+<h2 align="center"> Citing CoLog </h2>
 
 ```
 @inproceedings{CoLog,
