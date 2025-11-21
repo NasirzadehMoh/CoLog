@@ -148,7 +148,7 @@ Log anomaly detection is crucial for preserving the security of operating system
 | Transformer | 97.640 | 97.955 | 97.792 | 97.902 |
 | CoLog |  99.999 | 99.990 | 99.994 | 99.998 |
 
-## Main Results on Point and Collective Anomaly Detection
+## Ranking CoLog and other log anomaly detection methods.
 
 | Anomaly Detection Technique |  Mean F1-Score |
 | :---: | :---: |
