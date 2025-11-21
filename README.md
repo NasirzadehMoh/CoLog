@@ -52,7 +52,21 @@ Log anomaly detection is crucial for preserving the security of operating system
 | Transformer | 98.409 | 99.100 | 98.738 |  98.837 |
 | CoLog | 100 | 100 | 100 | 100 |
 
-**Results on Casper Dataset**
+**Results on Jhuisi Dataset**
+
+| Anomaly Detection Technique |  Precision | Recall | F1-Score | Accuracy |
+| :---: | :---: | :---: | :---: | :---: |
+| Logistic Regression | 68.373 | 66.127 | 64.886 | 79.182 |
+| Support Vector Machines | 63.643 | 66.506 | 64.051 | 80.914 |
+| Decision Tree | 91.534 | 89.769 |  90.550 | 93.313 |
+| Attentional BiLSTM | 95.123 | 97.270 | 96.169 | 99.341 |
+| Convolutional Neural Network | 97.139 | 94.885 | 95.982 | 99.341 |
+| pylogsentiment | 98.867 | 98.761 | 98.813 | 98.850 |
+| Isolation Forest | 57.519 | 52.774 | 51.700 | 74.707 |
+| Principal Component Analysis | 44.828 | 49.299 | 45.014 | 75.448 |
+| LSTM | 96.879 | 92.385 | 94.508 | 99.121 |
+| Transformer | 96.879 | 92.385 | 94.508 | 99.121 |
+| CoLog | 100 | 100 | 100 | 100 |
 
 **Results on Casper Dataset**
 
