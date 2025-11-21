@@ -29,7 +29,7 @@
 
 <br>
 
-<h1 align="left"> For more information, please visit [Alarmif.com](https://www.alarmif.com/). </h1>
+<h2 align="left"> For more information, please visit alarmif.com. </h2>
 
 <img alt="Alarmif" src="assets/Alarmif - Log Anomaly Detection Tool.gif"> </img>
 
