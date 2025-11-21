@@ -35,6 +35,42 @@ Log anomaly detection is crucial for preserving the security of operating system
 
 </div>
 
+## Main Results on Point Anomaly Detection
+**Results on Casper Dataset**
+
+| Anomaly Detection Technique |  Precision | Recall | F1-Score | Accuracy |
+| :---: | :---: | :---: | :---: | :---: |
+| Logistic Regression | 66.959 |  60.863 |  59.700 |  90.993 |
+| Support Vector Machines | Mask R-CNN | ImageNet-1K | 3x | 48.5 |
+| Decision Tree | Cascade Mask R-CNN | ImageNet-1K | 3x | 50.4 |
+| Attentional BiLSTM | Cascade Mask R-CNN | ImageNet-1K |  3x | 51.9 |
+| Convolutional Neural Network | Cascade Mask R-CNN | ImageNet-1K |  3x | 51.9 |
+| pylogsentiment | RepPoints V2 | ImageNet-1K | 3x | 50.0 |
+| Isolation Forest | Mask RepPoints V2 | ImageNet-1K | 3x | 50.3 |
+| Principal Component Analysis | HTC++ | ImageNet-22K | 6x | 56.4 |
+| LSTM | HTC++ | ImageNet-22K | 3x | 57.1 |
+| Transformer | HTC++<sup>*</sup> | ImageNet-22K |
+| CoLog | 100 | 100 | 100 | 100 |
+
+**Results on Casper Dataset**
+
+**Results on Casper Dataset**
+
+**Results on Casper Dataset**
+
+**Results on Casper Dataset**
+
+**Results on Casper Dataset**
+
+**Results on Casper Dataset**
+
+
+## Main Results on Point and Collective Anomaly Detection
+
+**COCO Object Detection (2017 val)**
+
+
+
 <div align="center">
 
 <h2 align="left"> For more information, please visit www.alarmif.com. </h2>
