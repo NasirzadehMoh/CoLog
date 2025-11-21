@@ -185,7 +185,15 @@ Log anomaly detection is crucial for preserving the security of operating system
 
 <h2 align="center"> Main Results on Point and Collective Anomaly Detection. </h2>
 
-**COCO Object Detection (2017 val)**
+| Dataset |  Precision | Recall | F1-Score | Accuracy |
+| :---: | :---: | :---: | :---: | :---: |
+| Casper |    99.43 | 99.40 | 99.41 | 99.64 |
+| Jhuisi | 99.82 | 99.48 |  99.65 | 99.70 |
+| Nssal |  99.32 | 99.70 | 99.51 |  99.91 |
+| Honey7 |    99.77 |  98.90 | 99.33 | 99.77 |
+| Zookeeper |  99.98 | 99.94 |  99.96 | 99.99 |
+| Hadoop | 99.17 | 99.84 |  99.50 |  99.98 |
+| BlueGene/L | 99.94 |  99.89 | 99.91 | 100 |
 
 </div>
 
