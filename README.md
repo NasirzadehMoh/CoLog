@@ -25,6 +25,8 @@
 
 > **Instructions for environment setup and execution**: See [Environment Setup](https://github.com/NasirzadehMoh/CoLog).
 
+> **Experiments**: See [Experiments](https://github.com/NasirzadehMoh/CoLog).
+
 <br>
 
 <h2 align="center"> Introduction </h2>
