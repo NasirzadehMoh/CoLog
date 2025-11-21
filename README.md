@@ -31,7 +31,7 @@ hello.
 
 <div align="center">
 
-<img alt="Alarmif" src="Figures/Overall Architecture.svg"> </img>
+<img alt="CoLog's Architecture" src="figures/architecture.svg"> </img>
 
 </div>
 
@@ -39,6 +39,6 @@ hello.
 
 <h2 align="left"> For more information, please visit www.alarmif.com. </h2>
 
-<img alt="Alarmif" src="assets/Alarmif - Log Anomaly Detection Tool.gif"> </img>
+<img alt="Alarmif" src="assets/alarmif.gif"> </img>
 
 </div>
