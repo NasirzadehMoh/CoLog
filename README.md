@@ -38,19 +38,19 @@ Log anomaly detection is crucial for preserving the security of operating system
 ## Main Results on Point Anomaly Detection
 **Results on Casper Dataset**
 
-| Anomaly Detection Technique |  Precision | Recall | F1-Score | Accuracy |
-| :---: | :---: | :---: | :---: | :---: |
-| Logistic Regression | 66.959 |  60.863 |  59.700 |  90.993 |
-| Support Vector Machines | Mask R-CNN | ImageNet-1K | 3x | 48.5 |
-| Decision Tree | Cascade Mask R-CNN | ImageNet-1K | 3x | 50.4 |
-| Attentional BiLSTM | Cascade Mask R-CNN | ImageNet-1K |  3x | 51.9 |
-| Convolutional Neural Network | Cascade Mask R-CNN | ImageNet-1K |  3x | 51.9 |
-| pylogsentiment | RepPoints V2 | ImageNet-1K | 3x | 50.0 |
-| Isolation Forest | Mask RepPoints V2 | ImageNet-1K | 3x | 50.3 |
-| Principal Component Analysis | HTC++ | ImageNet-22K | 6x | 56.4 |
-| LSTM | HTC++ | ImageNet-22K | 3x | 57.1 |
-| Transformer | HTC++<sup>*</sup> | ImageNet-22K |
-| CoLog | 100 | 100 | 100 | 100 |
+| Anomaly Detection Technique  | Precision | Recall | F1-Score | Accuracy |
+                               |   :---:   | :---:  |  :---:   |   :---:  |
+| Logistic Regression          |  66.959   | 60.863 |  59.700  |   90.993 |
+| Support Vector Machines      |  58.614   | 60.757 |  59.482  |   90.967 |
+| Decision Tree                |  83.466   | 77.037 |  79.488  |   94.998 |
+| Attentional BiLSTM           |  99.766   | 99.872 |  99.819  |   99.834 |
+| Convolutional Neural Network |  99.766   | 99.872 |  99.819  |   99.834 |
+| pylogsentiment               |  99.487   | 99.413 |  99.449  |   99.459 |
+| Isolation Forest             |  52.407   | 50.650 |  49.926  |   88.149 |
+| Principal Component Analysis |  51.205   | 50.282 |  49.362  |   87.480 |
+| LSTM                         |  97.973   | 98.843 |  98.380  |   98.505 |
+| Transformer                  |  98.409   | 99.100 |  98.738  |   98.837 |
+| CoLog                        |  100      | 100    |  100     |   100    |
 
 **Results on Casper Dataset**
 
