@@ -17,11 +17,11 @@
 
 > **Source code and training scripts**: See [get_started.md](get_started.md) for a quick start.
 
-> **Dataset preprocessing and split scripts**: See [Datasets](https://github.com/NasirzadehMoh/CoLog/tree/main/datasets).
-
-> **Configuration files (hyperparameters, seeds)**: See [Configuration Files](https://github.com/NasirzadehMoh/CoLog).
+> **Datasets**: See [Datasets](https://github.com/NasirzadehMoh/CoLog/tree/main/datasets).
 
 > **Instructions for environment setup and execution**: See [Environment Setup](https://github.com/NasirzadehMoh/CoLog).
+
+> **Configuration files (hyperparameters, seeds)**: See [Configuration Files](https://github.com/NasirzadehMoh/CoLog).
 
 > **Experiments**: See [Experiments](https://github.com/NasirzadehMoh/CoLog/tree/main/experiments).
 
