@@ -15,9 +15,7 @@
 
 <i>This repository is the official implementation of ["A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers"](https://arxiv.org) as well as its follow-ups. It currently includes:</i>
 
-> **Source code and training scripts**: Included in this repo. See [get_started.md](get_started.md) for a quick start.
-
-> **Pretrained models for all datasets**: See [Pretrained Models](https://github.com/NasirzadehMoh/CoLog).
+> **Source code and training scripts**: See [get_started.md](get_started.md) for a quick start.
 
 > **Dataset preprocessing and split scripts**: See [Datasets](https://github.com/NasirzadehMoh/CoLog/tree/main/datasets).
 
@@ -25,7 +23,9 @@
 
 > **Instructions for environment setup and execution**: See [Environment Setup](https://github.com/NasirzadehMoh/CoLog).
 
-> **Experiments**: See [Experiments](https://github.com/NasirzadehMoh/CoLog).
+> **Experiments**: See [Experiments](https://github.com/NasirzadehMoh/CoLog/tree/main/experiments).
+
+> **Pretrained models**: The models are included alongside the results of each dataset. See [Pretrained Models](https://github.com/NasirzadehMoh/CoLog/tree/main/experiments).
 
 <br>
 
