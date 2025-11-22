@@ -19,7 +19,7 @@
 
 > **Pretrained models for all datasets**: See [Pretrained Models](https://github.com/NasirzadehMoh/CoLog).
 
-> **Dataset preprocessing and split scripts**: See [Datasets]([https://github.com/NasirzadehMoh/CoLog](https://github.com/NasirzadehMoh/CoLog/tree/main/datasets)).
+> **Dataset preprocessing and split scripts**: See [Datasets](https://github.com/NasirzadehMoh/CoLog/tree/main/datasets).
 
 > **Configuration files (hyperparameters, seeds)**: See [Configuration Files](https://github.com/NasirzadehMoh/CoLog).
 
