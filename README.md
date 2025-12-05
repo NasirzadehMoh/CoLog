@@ -19,7 +19,11 @@
 
 ---
 
+<div align="center">
+
 ## 📋 Table of Contents
+
+</div>
 
 - [Introduction](#-introduction)
 - [Key Features](#-key-features)
@@ -37,7 +41,11 @@
 
 ---
 
+<div align="center">
+
 ## 🎯 Introduction
+
+</div>
 
 Log anomaly detection is crucial for preserving the security of operating systems. Depending on the source of log data collection, various information is recorded in logs that can be considered log modalities. In light of this intuition, unimodal methods often struggle by ignoring the different modalities of log data. Meanwhile, multimodal methods fail to handle the interactions between these modalities. Applying multimodal sentiment analysis to log anomaly detection, we propose CoLog, a framework that collaboratively encodes logs utilizing various modalities. CoLog utilizes collaborative transformers and multi-head impressed attention to learn interactions among several modalities, ensuring comprehensive anomaly detection. To handle the heterogeneity caused by these interactions, CoLog incorporates a modality adaptation layer, which adapts the representations from different log modalities. This methodology enables CoLog to learn nuanced patterns and dependencies within the data, enhancing its anomaly detection capabilities. Extensive experiments demonstrate CoLog’s superiority over existing state-of-the-art methods. Furthermore, in detecting both point and collective anomalies, CoLog achieves a mean precision of 99.63%, a mean recall of 99.59%, and a mean F1 score of 99.61% across seven benchmark datasets for log-based anomaly detection. The comprehensive detection capabilities of CoLog make it highly suitable for cybersecurity, system monitoring, and operational efficiency. CoLog represents a significant advancement in log anomaly detection, providing a sophisticated and effective solution to point and collective anomaly detection through a unified framework and a solution to the complex challenges automatic log data analysis poses.
 
@@ -53,7 +61,11 @@ Log anomaly detection is crucial for preserving the security of operating system
 
 ---
 
+<div align="center">
+
 ## 🚀 Installation
+
+</div>
 
 ### Prerequisites
 
@@ -86,7 +98,11 @@ python -m spacy download en_core_web_lg
 
 ---
 
+<div align="center">
+
 ## 🎬 Quick Start
+
+</div>
 
 ### Preprocessing
 
@@ -127,7 +143,11 @@ jupyter notebook run_colog.ipynb
 
 ---
 
+<div align="center">
+
 ## 📊 Datasets
+
+</div>
 
 CoLog has been evaluated on seven benchmark datasets:
 
@@ -317,9 +337,9 @@ All datasets are located in the `datasets/` directory. For more information, see
 
 ## 📝 Citing CoLog
 
-If you use CoLog in your research, please cite our paper:
-
 </div>
+
+If you use CoLog in your research, please cite our paper:
 
 ```bibtex
 @inproceedings{CoLog2024,
@@ -337,6 +357,8 @@ If you use CoLog in your research, please cite our paper:
 
 ## 🤝 Contributing
 
+<div align="left">
+
 We welcome contributions to CoLog! If you'd like to contribute:
 
 1. Fork the repository
@@ -347,21 +369,33 @@ We welcome contributions to CoLog! If you'd like to contribute:
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
+</div>
+
 ---
 
 ## 📄 License
 
+<div align="left">
+
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+</div>
 
 ---
 
 ## 📧 Contact
+
+<div align="left">
 
 For more information, questions, or collaboration opportunities:
 
 - **Website**: [www.alarmif.com](https://www.alarmif.com)
 - **Issues**: [GitHub Issues](https://github.com/NasirzadehMoh/CoLog/issues)
 - **Pull Requests**: [GitHub Pull Requests](https://github.com/NasirzadehMoh/CoLog/pulls)
+- **LinkedIn**: [Mohammad Nasirzadeh](https://www.linkedin.com/in/nasirzadehmoh/)
+- **Email**: [Mohammad Nasirzadeh](mailto:nasirzadehmohammad1997@gmail.com)
+
+</div>
 
 <div align="center">
 
