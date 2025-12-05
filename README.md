@@ -313,11 +313,13 @@ All datasets are located in the `datasets/` directory. For more information, see
 
 <div align="left">
 
-<div align="center">
-## 📝 Citing CoLog
-</div>
+<div align="left">
 
-<h5 align="center"> If you use CoLog in your research, please cite our paper: </h5>
+## 📝 Citing CoLog
+
+If you use CoLog in your research, please cite our paper:
+
+</div>
 
 ```bibtex
 @inproceedings{CoLog2024,
