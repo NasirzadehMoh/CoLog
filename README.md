@@ -311,6 +311,8 @@ All datasets are located in the `datasets/` directory. For more information, see
 
 ---
 
+<div align="left">
+
 ## 📝 Citing CoLog
 
 If you use CoLog in your research, please cite our paper:
@@ -324,6 +326,8 @@ If you use CoLog in your research, please cite our paper:
   url={https://arxiv.org}
 }
 ```
+
+</div>
 
 ---
 
@@ -359,7 +363,7 @@ For more information, questions, or collaboration opportunities:
 
 <br>
 
-<img alt="Alarmif" src="assets/alarmif.gif" width="1080"> </img>
+<img alt="Alarmif" src="assets/alarmif.gif" width="200"> </img>
 
 <br>
 
