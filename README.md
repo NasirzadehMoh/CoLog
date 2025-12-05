@@ -308,7 +308,6 @@ All datasets are located in the `datasets/` directory. For more information, see
 | BlueGene/L | 99.94 |  99.89 | 99.91 | 100 |
 
 <br>
-</div>
 
 ---
 
@@ -316,8 +315,7 @@ All datasets are located in the `datasets/` directory. For more information, see
 
 If you use CoLog in your research, please cite our paper:
 
-<div align="left">
-```
+```bibtex
 @inproceedings{CoLog2024,
   title={A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers},
   author={CoLog Authors},
@@ -326,7 +324,6 @@ If you use CoLog in your research, please cite our paper:
   url={https://arxiv.org}
 }
 ```
-</div>
 
 ---
 
