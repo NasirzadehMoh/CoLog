@@ -392,8 +392,8 @@ For more information, questions, or collaboration opportunities:
 - **Website**: [www.alarmif.com](https://www.alarmif.com)
 - **Issues**: [GitHub Issues](https://github.com/NasirzadehMoh/CoLog/issues)
 - **Pull Requests**: [GitHub Pull Requests](https://github.com/NasirzadehMoh/CoLog/pulls)
-- **LinkedIn**: [Mohammad Nasirzadeh](https://www.linkedin.com/in/nasirzadehmoh/)
-- **Email**: [Mohammad Nasirzadeh](mailto:nasirzadehmohammad1997@gmail.com)
+- **LinkedIn**: [NasirzadehMoh](https://www.linkedin.com/in/nasirzadehmoh/)
+- **Email**: [nasirzadehmohammad1997@gmail.com](mailto:nasirzadehmohammad1997@gmail.com)
 
 </div>
 
