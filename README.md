@@ -313,7 +313,7 @@ All datasets are located in the `datasets/` directory. For more information, see
 
 <div align="left">
 
-<div align="left">
+<div align="center">
 
 ## 📝 Citing CoLog
 
