@@ -315,7 +315,7 @@ All datasets are located in the `datasets/` directory. For more information, see
 
 ## 📝 Citing CoLog
 
-If you use CoLog in your research, please cite our paper:
+<h5 align="center"> If you use CoLog in your research, please cite our paper: </h2>
 
 ```bibtex
 @inproceedings{CoLog2024,
