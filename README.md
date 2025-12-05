@@ -359,7 +359,7 @@ For more information, questions, or collaboration opportunities:
 
 <br>
 
-<img alt="Alarmif" src="assets/alarmif.gif" width="200"> </img>
+<img alt="Alarmif" src="assets/alarmif.gif" width="1080"> </img>
 
 <br>
 
