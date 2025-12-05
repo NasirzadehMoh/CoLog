@@ -314,8 +314,9 @@ All datasets are located in the `datasets/` directory. For more information, see
 ## 📝 Citing CoLog
 
 If you use CoLog in your research, please cite our paper:
-<div align="left">
+
 ```bibtex
+<div align="left">
 @inproceedings{CoLog2024,
   title={A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers},
   author={CoLog Authors},
