@@ -246,17 +246,11 @@ for dataset in hadoop spark zookeeper bgl casper-rw; do
 done
 ```
 
-### Dataset Selection
+### Dataset loader
 
 Specify dataset in configuration or command-line arguments:
 
 ```python
-from utils.process_arguments import Process_Arguments
-
-# Parse arguments
-args = Process_Arguments()
-dataset_name = args.dataset  # e.g., 'hadoop', 'spark', etc.
-
 # Load dataset
 from train.utils.groundtruth_loader import GroundTruthLoader
 train_loader = GroundTruthLoader(
@@ -565,3 +559,4 @@ We thank the following organizations and communities for making these datasets p
 Dataset collection version: 1.0.0
 
 Last updated: December 2025
+
