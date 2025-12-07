@@ -8,8 +8,7 @@
 <a href="https://github.com/NasirzadehMoh/CoLog/network/members"><img src="https://img.shields.io/badge/0-NasirzadehMoh%2FCoLog?style=social&logo=github&label=Forks" alt="Forks Badge"/></a>
 <a href="https://github.com/NasirzadehMoh/CoLog/pulls"><img src="https://img.shields.io/badge/0.0-NasirzadehMoh%2FCoLog?style=plastic&logo=github&label=Pull%20request&color=544aa0" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/NasirzadehMoh/CoLog/issues"><img src="https://img.shields.io/badge/0.0-NasirzadehMoh%2FCoLog?style=plastic&logo=github&label=Issues&color=f68b1f" alt="Issues Badge"/></a>
-<a href="https://github.com/NasirzadehMoh/CoLog/graphs/contributors"><img src="[https://img.shields.io/badge/2.0-NasirzadehMoh%2FCoLog?style=plastic&logo=github&label=Contributors&color=f2678e](https://img.shields.io/badge/1.0%20-%20Contributors?style=plastic&logo=github&label=Contributors&color=e96d90
-)" alt="GitHub contributors"></a>
+<a href="https://github.com/NasirzadehMoh/CoLog/graphs/contributors"><img src="https://img.shields.io/badge/1.0%20-%20Contributors?style=plastic&logo=github&label=Contributors&color=e96d90" alt="GitHub contributors"></a>
 <a href="https://github.com/NasirzadehMoh/CoLog/blob/main/LICENSE"><img src="https://img.shields.io/badge/MIT-NasirzadehMoh%2FCoLog?style=plastic&logo=github&label=License&color=3d83bf" alt="License Badge"/></a>
 
 </div>
