@@ -11,12 +11,12 @@
 <a href="https://github.com/NasirzadehMoh/CoLog/graphs/contributors"><img src="https://img.shields.io/badge/1.0%20-%20Contributors?style=plastic&logo=github&label=Contributors&color=e96d90" alt="GitHub contributors"></a>
 <a href="https://github.com/NasirzadehMoh/CoLog/blob/main/LICENSE"><img src="https://img.shields.io/badge/MIT-NasirzadehMoh%2FCoLog?style=plastic&logo=github&label=License&color=3d83bf" alt="License Badge"/></a>
 
-</div align="center">
+</div>
 
-<p>
+<p align="center">
 <i>Official implementation of "A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers"</i>
 
-<a href="https://www.nature.com/articles/s41598-025-27693-4_reference.pdf">Download Paper</a>
+<i href="https://www.nature.com/articles/s41598-025-27693-4_reference.pdf">Download Paper</i>
 
 </p>
 
