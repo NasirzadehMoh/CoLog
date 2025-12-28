@@ -1,3 +1,16 @@
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
 <h1 align="center"> A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers </h1>
 
 <div align="center">
@@ -15,7 +28,8 @@
 
 <p align="center">
 <i>Official implementation of "A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers"</i>
-<a href="https://www.nature.com/articles/s41598-025-27693-4_reference.pdf">       Download Paper</a>
+<a href="https://www.nature.com/articles/s41598-025-27693-4_reference.pdf">Download Paper</a>
+<button class="button">Blue</button>
 </p>
 
 ---
