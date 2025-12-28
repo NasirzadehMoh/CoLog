@@ -1,4 +1,6 @@
-<h1 align="center"> CoLog: A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers </h1>
+<h1 align="center"> A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers </h1>
+
+<a href="https://www.nature.com/articles/s41598-025-27693-4_reference.pdf" align="center">Download Paper</a>
 
 <div align="center">
 
