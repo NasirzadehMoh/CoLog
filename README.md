@@ -16,11 +16,7 @@
 <i>Official implementation of "A Unified Framework for Detecting Point and Collective Anomalies in Operating System Logs via Collaborative Transformers"</i>
 </p>
 
-<div align="center">
 
-<a href="https://www.nature.com/articles/s41598-025-27693-4_reference.pdf">Download Paper</a>
-
-</div>
 
 ---
 
