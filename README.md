@@ -18,9 +18,7 @@
 
 <div align="center">
 
-<br>
 <a href="https://www.nature.com/articles/s41598-025-27693-4_reference.pdf">Download Paper</a>
-<br>
 
 </div>
 
