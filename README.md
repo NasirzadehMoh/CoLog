@@ -419,6 +419,6 @@ For more information, questions, or collaboration opportunities:
 
 ---
 
-<p>Made with ❤️ by the Alarmif team</p>
+<p>Made with ❤️ by the Alarmif Team</p>
 
 </div>
